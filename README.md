@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rebanta Chakraborty</h1>
-<h3 align="center">A Full Stack developer from India</h3>
-<br><br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
-📫 Email: **rebantachakraborty8@gmail.com**
+<p>
+  I am a second year B.Tech student currently pursuing my bachelors in Information Technology from Kalinga Institute of Industrial Technology.<br>
+  - Curently learning web development, and programming in python.
+</p>
 
+- Email: **rebantachakraborty8@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+- Connect on: <a href="https://www.linkedin.com/in/rebanta-chakraborty2002/">LinkedIn</a>
+
+<br>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
